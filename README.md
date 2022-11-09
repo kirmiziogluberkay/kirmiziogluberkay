@@ -20,10 +20,12 @@ My current position is as an SAP consultant candidate with Eczacıbaşı Vitra. 
 
 
 
-**Languages:**
+**Languages & Courses:**
 <div>
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://www.sap.com/dam/application/shared/logos/sap-logo-svg.svg/sap-logo-svg.svg" title="SAP" alt="SAP" width="55" height="55"/>&nbsp;
 </div>
+
 
 <!--
 **kirmiziogluberkay/kirmiziogluberkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
