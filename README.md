@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🖐🏻Hi, I’m Berkay.
+I’m Berkay.
 
 I’m a senior year civil engineering student at METU. 
 My current position is as an SAP consultant candidate with Eczacıbaşı Vitra. During my studies, Patika.dev is guiding me through my new role.
