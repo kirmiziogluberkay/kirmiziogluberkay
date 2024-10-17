@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I’m Berkay.
+My name is Berkay.
 
-I’m a senior year civil engineering student at METU. 
-My current position is as an SAP consultant candidate with Eczacıbaşı Vitra. During my studies, Patika.dev is guiding me through my new role.
+I graduated with a degree in civil engineering from METU. After graduation, I worked as an assistant IT specialist at one of the leading companies in Türkiye. Currently, I am pursuing my studies in Information Technologies for the Built Environment at the Technical University of Munich.
 
 **How to reach me:**
 
-[**E-mail**](mailto:berkayksocial@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<div id="badges">
+[**E-mail**](mailto:kirmiziogluberkay@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)<div id="badges">
   <a href="https://www.linkedin.com/in/kirmiziogluberkay/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
